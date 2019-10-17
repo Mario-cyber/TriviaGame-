@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/background.png");
+    background-size: 91%;
+    font-family: fantasy;
+}
+
+
+#bigWindow {
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    background: rgb(179, 20, 14);
+    width: 55%;
+    height: 80%;
+    color: white;
+    text-align: center
+}
+
+#start {
+    position: relative;
+    top: 25px;
+    background: darkblue;
+    width: 60%;
+    height: 30%;
+    color: white;
+    text-align-last: auto;
+    padding: 30px;
+}
